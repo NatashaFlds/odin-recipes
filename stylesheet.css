@@ -1,0 +1,17 @@
+html {
+    height:100%;
+}
+
+body {
+    background-image: url('./recipes/images/homeimage.jpg');
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position-x: top 50%;
+    font-family: cursive;
+    font-size: 40px;
+}
+
+h1 {
+    background-image: linear-gradient(to left, rgb(240, 218, 148), rgba(226, 102, 31, 0.884));
+    color: rgb(58, 55, 55);
+}
