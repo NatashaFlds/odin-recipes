@@ -4,6 +4,8 @@ html {
 
 body {
     background-image: url('./recipes/images/homeimage.jpg');
+    background-color:rgb(230, 188, 134, 0.582);
+    background-blend-mode: multiply;
     background-size: 100% auto;
     background-repeat: no-repeat;
     background-position-x: top 50%;
